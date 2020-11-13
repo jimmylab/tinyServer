@@ -1,0 +1,8 @@
+{
+	"protocol": "https",
+	"port": 443,
+	"cert": "tinyServer.crt",
+	"private": "tinyServer.pem",
+	"rootPath": "C:/Users/ljh/Pictures/疫情文摘/",
+	"indexEnabled": true
+}
